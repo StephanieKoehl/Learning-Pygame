@@ -10,4 +10,5 @@ I have a couple goals for this project they are as follows
 **Today's Date** February 8 2017
 
 Today's Goals
-- [ ] Create a skeleton for 
+- [ ] Create a skeleton for a pygame template
+- [ ] Upload some notes for what I learn today
