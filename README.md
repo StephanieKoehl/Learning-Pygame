@@ -20,3 +20,5 @@ Rating for today: 100 flaming hot cheetos out of 10 :fire:
 Today's Goals
 - [x] Work with sprites
 - [x] Upload what I learn in new Day 2 document that I will add
+
+Rating for today: a light jog :running:
