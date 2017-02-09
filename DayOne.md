@@ -47,6 +47,54 @@ To initialize the game use the following: ```python pygame.init()``` basically j
 
 ### What I coded today:
 
+```python
+# Python Pygame skeleton for a new project
+
+import pygame #import pygame library
+import random #so I can have random components to my game. 
+
+WIDTH = 360 #average mobile size
+HEIGHT = 480
+FPS = 30
+
+#define a few useful colours
+WHITE = (255.255.255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+MAGENTA = (255, 0, 255)
+
+# initialize pygame and create window
+
+pygame.init() # initializes game
+pygame.mixer.init() # handles sound effects and music in game
+
+screen = pygame.display.set_mode((WIDTH, HEIGHT)) #window
+pygame.display.set_caption("My Swagilicious Game") #what the title of it will be at the top of your screen, obviously update later
+clock = pygame.time.Clock() #keeps track of time
+
+# Game loop
+running = True #set to false when we want to stop our game
+
+while running:
+	#keep loop running at the right speed
+	clock.tick(FPS)
+	#process input (events)
+	for event in pygame.event.get():
+		#check for closing window
+		if event.type == pygame.QUIT:
+			running = False
+	#update
+
+	#draw/render
+	screen.fill(MAGENTA) #fill screen with solid colour instead of having moving parts/sprites
+	# *after* drawing everything, this happens last
+	pygame.display.flip()
+
+pygame.quit()
+```
+
 
 
 
