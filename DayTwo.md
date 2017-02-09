@@ -39,3 +39,5 @@ player = Player()
 all_sprites.add(player)
 
 ```
+
+And **VOILA** you now have a white square on a magenta background. Now all thats left is to sell your game and make millions. Ok maybe not yet.. but soon :sparkles:
