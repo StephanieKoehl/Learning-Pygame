@@ -13,7 +13,7 @@ Today's Goals
 - [x] Create a skeleton for a pygame template
 - [x] Upload some notes for what I learn today
 
-Rating for today: 100 flaming hot cheetos out of 10 :fire:
+**Rating for today**: 100 flaming hot cheetos out of 10 :fire:
 
 ### February 9 2017
 
@@ -21,4 +21,4 @@ Today's Goals
 - [x] Work with sprites
 - [x] Upload what I learn in new Day 2 document that I will add
 
-Rating for today: a light jog :running:
+**Rating for today**: a light jog :running:
