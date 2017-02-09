@@ -10,5 +10,13 @@ I have a couple goals for this project they are as follows
 ### February 8 2017
 
 Today's Goals
-- [ ] Create a skeleton for a pygame template
-- [ ] Upload some notes for what I learn today
+- [x] Create a skeleton for a pygame template
+- [x] Upload some notes for what I learn today
+
+:fire:
+
+### February 9 2017
+
+Today's Goals
+- [ ] Work with sprites
+- [ ] Upload what I learn in new Day 2 document that I will add
