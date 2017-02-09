@@ -18,5 +18,5 @@ Rating for today: 100 flaming hot cheetos out of 10 :fire:
 ### February 9 2017
 
 Today's Goals
-- [ ] Work with sprites
-- [ ] Upload what I learn in new Day 2 document that I will add
+- [x] Work with sprites
+- [x] Upload what I learn in new Day 2 document that I will add
