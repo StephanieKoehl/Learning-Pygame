@@ -26,4 +26,4 @@ Today's Goals
 ### February 13 2017
 
 Today's Goals
-- [ ] Read one chapter of (this book)[http://inventwithpython.com/makinggames.pdf]
+- [ ] Read one chapter of [this](http://inventwithpython.com/makinggames.pdf)
