@@ -22,3 +22,8 @@ Today's Goals
 - [x] Upload what I learn in new Day 2 document that I will add
 
 **Rating for today**: a light jog :running:
+
+### February 13 2017
+
+Today's Goals
+- [ ] Read one chapter of (this book)[http://inventwithpython.com/makinggames.pdf]
