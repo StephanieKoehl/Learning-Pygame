@@ -1,3 +1,5 @@
+## Learning Python: The Feb 14 romantics edition :kiss: :smirk:
+
 ### Back 2 Basics
 
 I started to get frustrated with Python, I haven't used it in almost 3 years and I've gotten a little rusty. I decided to go back to basics and read up on some basic python programming from Al Sweigart and his book 
