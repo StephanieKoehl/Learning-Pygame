@@ -50,7 +50,7 @@ if flag == True:
   this was actually my first time using ```break``` . I had a Computer Science teacher who hates breaks and called it lazy programming (*which is fair*) 
   but it made things super simple and fast. I'm excited to use breaks in further programming.
   
-  ###final notes
+  ### final notes
   
   I've been in a bit of a slump these past couple days so haven't been overly motivated to do much. Today's progress: 3 cookie-making grandmas at a bake sale :older_woman:
   
