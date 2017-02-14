@@ -6,6 +6,7 @@ I have a couple goals for this project they are as follows
 * Document my progress
 * Add something new to my github everyday, even if its just editing notes
 * Fall back in love for coding
+* Add emojis to [everything](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### February 8 2017
 
