@@ -1,7 +1,7 @@
 ### Back 2 Basics
 
 I started to get frustrated with Python, I haven't used it in almost 3 years and I've gotten a little rusty. I decided to go back to basics and read up on some basic python programming from Al Sweigart and his book 
-(Invent Your Own Computer Games with Python)[https://inventwithpython.com/] which I would highly recommend.
+[Invent Your Own Computer Games with Python](https://inventwithpython.com/) which I would highly recommend.
 
 I got re-excited with making super simple text based games, while slightly modifying his guessing game below:
 
@@ -47,8 +47,7 @@ if flag == True:
   
   ```
   
-  this was actually my first time using ```break``` . I had a Computer Science teacher who hates breaks and called it lazy programming (*which is fair*) 
-  but it made things super simple and fast. I'm excited to use breaks in further programming.
+This was actually my first time using ```break``` . I had a Computer Science teacher who hates breaks and called it lazy programming (*which is fair*) but it made things super simple and fast. I'm excited to use breaks in further programming (but not too often, dont have a heart attack Mr. Liconti).
   
 ### Final notes
   
