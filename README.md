@@ -27,3 +27,12 @@ Today's Goals
 
 Today's Goals
 - [ ] Read one chapter of [this book](http://inventwithpython.com/makinggames.pdf)
+
+**Rating for today**: a couples massage that only you show up to :massage:
+
+### February 14 2017
+
+Today's Goals
+- [x] Read through 2 chapters of [this slightly different book](https://inventwithpython.com/inventwithpython_3rd.pdf)
+
+**Rating for today**: 3 cookie-baking grandma's at a bake sale :older_woman:
