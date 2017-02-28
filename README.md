@@ -36,3 +36,10 @@ Today's Goals
 - [x] Read through 2 chapters of [this slightly different book](https://inventwithpython.com/inventwithpython_3rd.pdf)
 
 **Rating for today**: 3 cookie-baking grandma's at a bake sale :older_woman:
+
+### February 28 2017
+
+Today's Goals
+- [x] Make a simple text based program that I can later gamify
+
+**Rating for today:** CASH ME OUSSIDE HOW BOW DAH??? :tent:
