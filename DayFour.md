@@ -3,7 +3,9 @@
 I pulled a heckin rookie move and forgot to save my last day four which was like 2 weeks ago. It was also reading week and I fell off earth. To my loyal 0 followers my apologies.
 
 TODAY I was feeling like trying to figure out a simple game I could easily make better with pygame, I decided on Rock Paper Scissors and in 10 minutes made this attrocious version. 
-cash me in a week with the gameified version of this HOW BOW DAH?
+
+
+Cash me in a week with the gameified version of this **HOW BOW DAH?** :girl:
 
 ```python
 import random
