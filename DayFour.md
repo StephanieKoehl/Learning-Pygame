@@ -51,6 +51,6 @@ print("cpu was " + str(cpu) )
 
 ```
 
-Love 5 ever,
+Don't Stop Believin,
 
 Stooph :sparkles:
