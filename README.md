@@ -55,6 +55,6 @@ Today's Goals
 ### March 21st 2017
 
 Today's Goals
-- [] Read 2 chapters of [this book](https://inventwithpython.com/inventwithpython_3rd.pdf) and write notes
-- [] Finish movement for my jumping alien game
+- [ ] Read 2 chapters of [this book](https://inventwithpython.com/inventwithpython_3rd.pdf) and write notes
+- [ ] Finish movement for my jumping alien game
 
