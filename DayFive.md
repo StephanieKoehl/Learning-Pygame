@@ -3,7 +3,7 @@
 Today I'm back to learning Pygame, I've gone on a lot of weird subpaths and been a bit distracted but I've got the motivation back and I'm doing it.
 Are you proud? I'm proud. :cookie:
 
-### Graphics
+### Folders and surrounding rectangles
 So at this point, having graphics for our games is important, more than just moving a square across a screen. Using [Open Game Art](http://opengameart.org/)
 
 To load it into our program, we need to tell the program where it is. First importing os at the beginning of our program using the command ` import os`. Easy. Now we're going to set up our asset folder (assets in games are images and sounds) so we can later access it.
@@ -28,10 +28,7 @@ Lets break down what this does:
 
 Next make sure to get rid of `self.image.fill(MAGENTA)` or else you'll just have a larger magenta square running across the screen
 
-The computer loads every image as a rectangle which is awesome and works great except it0
+The computer loads every image as a rectangle which is awesome and works great except it loads a rectangle background around the object if the image is not already a rectangle. In this case, it loads a lil black rectangle around it so to get rid of that input the command ```self.image.set_colorkey(BLACK)```. If you have a different colour rectangle around yours, input that colour instead of black.
 
-```python
 
-WIDTH = 800
-HEIGHT = 600
 
