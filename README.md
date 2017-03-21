@@ -44,3 +44,17 @@ Today's Goals
 - [x] Make a simple text based program that I can later gamify
 
 **Rating for today:** CASH ME OUSSIDE HOW BOW DAH??? :tent:
+
+### March 1st 2017
+
+Today's Goals
+- [x] Learn how to get images instead of rectangles in my game
+
+**Rating for today:** 8 n00bs at a MLG convention :video_game:
+
+### March 21st 2017
+
+Today's Goals
+- [] Read 2 chapters of [this book](https://inventwithpython.com/inventwithpython_3rd.pdf) and write notes
+- [] Finish movement for my jumping alien game
+
