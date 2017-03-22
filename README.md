@@ -56,5 +56,13 @@ Today's Goals
 
 Today's Goals
 - [ ] Read 2 chapters of [this book](https://inventwithpython.com/inventwithpython_3rd.pdf) and write notes
-- [ ] Finish movement for my jumping alien game
+- [x] Finish movement for my jumping alien game
+
+**Rating for today:** tractor on a freeway :tractor:
+
+### March 22nd 2017
+
+Today's Goals
+- [ ] Finish goals from yesterday
+- [ ] some other stuff
 
